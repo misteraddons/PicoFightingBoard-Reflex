@@ -1,3 +1,6 @@
 *-backups/
 fp-info-cache
 sym-lib-table
+boards/Reflex_V1/.DS_Store
+boards/.DS_Store
+boards/Reflex_V1/outputs/.DS_Store
