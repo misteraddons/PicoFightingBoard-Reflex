@@ -47,7 +47,7 @@ The [`libraries`](https://github.com/misteraddons/ReflexFightingBoard/tree/main/
 
 ## Support
 
-If you would like to discuss and issues or features with the Reflex Fighting Board, please join the [OpenStick GP2040-CE Discord channel](https://discord.gg/k2pxhke7q8).
+If you would like to discuss and issues or features with the Reflex Fighting Board, please join the [OpenStick GP2040-CE Discord channel](https://discord.gg/k2pxhke7q8) or the [MiSTer Addons Discord Channel](https://discord.gg/PtUFHtzuYD).
 
 ## Contributions
 
