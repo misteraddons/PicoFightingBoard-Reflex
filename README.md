@@ -14,27 +14,34 @@ I will also have premade boards periodically available for purchase at <https://
 
 ## Errata & Changelog
 Reflex Encode V1.0:
-RGB LED voltage too low - voltage source moved to Vbus (before fuse) instead of +5V (after fuse)
-Pinout = PicoFightingBoard
+
+-RGB LED voltage too low - voltage source moved to Vbus (before fuse) instead of +5V (after fuse)
+
+-Pinout = PicoFightingBoard
+
 
 Reflex Encode V1.1:
-Added 5 pin USB header
 
-Pinout = GP2040
+-Added 5 pin USB header
 
-Added turbo button
+-Pinout = GP2040
 
-Added turbo LED
+-Added turbo button
 
-Added spinner header
+-Added turbo LED
 
-Error: Left and Right pins swapped compared to GP2040 pinout
+-Added spinner header
 
-Error: TP+L3+R3 pinout incompatible with Brook cable
+-Error: Left and Right pins swapped compared to GP2040 pinout
+
+-Error: TP+L3+R3 pinout incompatible with Brook cable
+
 
 Reflex Encode V1.2:
-Fixed Left / Right pinout
-Fixed TP+L3+R3 pinout
+
+-Fixed Left / Right pinout
+
+-Fixed TP+L3+R3 pinout
 
 ## Firmware
 
