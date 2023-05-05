@@ -19,11 +19,17 @@ Pinout = PicoFightingBoard
 
 Reflex Encode V1.1:
 Added 5 pin USB header
+
 Pinout = GP2040
+
 Added turbo button
+
 Added turbo LED
+
 Added spinner header
+
 Error: Left and Right pins swapped compared to GP2040 pinout
+
 Error: TP+L3+R3 pinout incompatible with Brook cable
 
 Reflex Encode V1.2:
