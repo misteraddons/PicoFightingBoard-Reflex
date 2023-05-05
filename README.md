@@ -4,16 +4,17 @@ Open source PCB for arcade sticks using Raspberry Pi Pico's RP2040 microcontroll
 
 ## Introduction
 
-![Reflex Fighting Board v1.0](assets/ReflexFightingBoard_v1.0.jpg)
-
 They say imitation is the highest form of flattery. If that's the case then the Brook line of arcade controller boards must be blushing beet red. The Reflex Fighting Board uses the same form factor and layout of the Brook PCBs to maintain compatibility with existing arcade stick cases, wiring harnesses, wire management accessories, etc.
 
 The files for PCB production are in the [Releases](https://github.com/misteraddons/ReflexFightingBoard/tree/main/boards/Reflex_V1) section. The zip file contains the Gerber and drill files, which is all you'll need if you're soldering SMT components yourself. There are also `csv` files for the BOM (Bill of Materials) and component positioning for SMT assembly service.
 
 I will also have premade boards periodically available for purchase at <https://misteraddons.com/collections/parts/products/reflex-encode-fighting-board>.
 
-## Errata & Changelog
+## Versions, Errata & Changelog
+
 Reflex Encode V1.0:
+
+![Reflex Fighting Board v1.0](assets/ReflexFightingBoard_v1.0.jpg)
 
 -RGB LED voltage too low - voltage source moved to Vbus (before fuse) instead of +5V (after fuse)
 
@@ -21,6 +22,10 @@ Reflex Encode V1.0:
 
 
 Reflex Encode V1.1:
+
+![Reflex Fighting Board v1.1](assets/ReflexFightingBoard_v1.1.jpg)
+
+-Added USB A connector
 
 -Added 5 pin USB header
 
@@ -38,6 +43,8 @@ Reflex Encode V1.1:
 
 
 Reflex Encode V1.2:
+
+![Reflex Fighting Board v1.2](assets/ReflexFightingBoard_v1.2.jpg)
 
 -Fixed Left / Right pinout
 
