@@ -16,39 +16,39 @@ Reflex Encode V1.0:
 
 ![Reflex Fighting Board v1.0](assets/ReflexFightingBoard_v1.0.jpg)
 
--RGB LED voltage too low - voltage source moved to Vbus (before fuse) instead of +5V (after fuse)
+>RGB LED voltage too low - voltage source moved to Vbus (before fuse) instead of +5V (after fuse)
 
--Pinout = PicoFightingBoard
+>Pinout = PicoFightingBoard
 
 
 Reflex Encode V1.1:
 
 ![Reflex Fighting Board v1.1](assets/ReflexFightingBoard_v1.1.jpg)
 
--Added USB A connector
+>Added USB A connector
 
--Added 5 pin USB header
+>Added 5 pin USB header
 
--Pinout = GP2040
+>Pinout = GP2040
 
--Added turbo button
+>Added turbo button
 
--Added turbo LED
+>Added turbo LED
 
--Added spinner header
+>Added spinner header
 
--Error: Left and Right pins swapped compared to GP2040 pinout
+>Error: Left and Right pins swapped compared to GP2040 pinout
 
--Error: TP+L3+R3 pinout incompatible with Brook cable
+>Error: TP+L3+R3 pinout incompatible with Brook cable
 
 
 Reflex Encode V1.2:
 
 ![Reflex Fighting Board v1.2](assets/ReflexFightingBoard_v1.2.jpg)
 
--Fixed Left / Right pinout
+>Fixed Left / Right pinout
 
--Fixed TP+L3+R3 pinout
+>Fixed TP+L3+R3 pinout
 
 ## Firmware
 
