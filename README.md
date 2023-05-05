@@ -23,7 +23,7 @@ Reflex Encode V1.0:
 
 Reflex Encode V1.1:
 
-![Reflex Fighting Board v1.1](assets/ReflexFightingBoard_v1.1.jpg)
+![Reflex Fighting Board v1.1](assets/ReflexFightingBoard_v1.1.jpeg)
 
 >Added USB A connector
 
@@ -44,7 +44,7 @@ Reflex Encode V1.1:
 
 Reflex Encode V1.2:
 
-![Reflex Fighting Board v1.2](assets/ReflexFightingBoard_v1.2.jpg)
+![Reflex Fighting Board v1.2](assets/ReflexFightingBoard_v1.2.jpeg)
 
 >Fixed Left / Right pinout
 
