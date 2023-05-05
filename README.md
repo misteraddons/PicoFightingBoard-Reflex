@@ -12,6 +12,24 @@ The files for PCB production are in the [Releases](https://github.com/misteraddo
 
 I will also have premade boards periodically available for purchase at <https://misteraddons.com/collections/parts/products/reflex-encode-fighting-board>.
 
+## Errata & Changelog
+Reflex Encode V1.0:
+RGB LED voltage too low - voltage source moved to Vbus (before fuse) instead of +5V (after fuse)
+Pinout = PicoFightingBoard
+
+Reflex Encode V1.1:
+Added 5 pin USB header
+Pinout = GP2040
+Added turbo button
+Added turbo LED
+Added spinner header
+Error: Left and Right pins swapped compared to GP2040 pinout
+Error: TP+L3+R3 pinout incompatible with Brook cable
+
+Reflex Encode V1.2:
+Fixed Left / Right pinout
+Fixed TP+L3+R3 pinout
+
 ## Firmware
 
 The [GP2040](https://github.com/OpenStickCommunity/GP2040-CE) gamepad firmware for Pi Pico/RP2040 has a pre-configured build for use with the Reflex Fighting Board, providing support for XInput (PC, Android, Raspberry Pi, etc.), DInput (PC/PS3) and Nintendo Switch. [Go to the releases](https://github.com/OpenStickCommunity/GP2040-CE/releases) and download the `GP2040-CE_X.X.X_PicoFightingBoard.uf2`. To flash:
@@ -23,27 +41,7 @@ The [GP2040](https://github.com/OpenStickCommunity/GP2040-CE) gamepad firmware f
 
 ## Modification
 
-If you want to modify the PCB layout you'll need the free [KiCad software](https://www.kicad.org/download/) installed. KiCad 5.1.9 was used for these instructions.
-
-### Libraries
-
-The [`libraries`](https://github.com/misteraddons/ReflexFightingBoard/tree/main/libraries) folder contains the schematics and footprints required to work with the KiCad source files.
-
-#### Symbols
-
-1. From the KiCad `Preferences` menu, select `Manage Symbol Libraries...`.
-1. In the `Global Libraries` tab, click the folder icon.
-1. Navigate to this repository, then navigate to `libraries/RP-Pico Libraries` and select the `MCU_RaspberryPi_and_Boards.lib` file.
-1. Click `OK` to finish.
-
-#### Footprints
-
-1. From the KiCad `Preferences` menu, select `Manage Footprint Libraries...`.
-1. In the `Global Libraries` tab, click the folder icon.
-1. In the `Select Libary` dialog, navigate to `libraries/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty` in this repository.
-1. Click `OK` to confirm the folder selection.
-1. Repeat the same process for the `libraries/FeralAI/FeralAI.pretty` folder.
-1. Click `OK` to finish.
+If you want to modify the PCB layout you'll need the free [KiCad software](https://www.kicad.org/download/) installed. KiCad 6.x/7.x was used for these instructions.
 
 ## Support
 
