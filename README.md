@@ -56,13 +56,3 @@ Want to help improve the Reflex Fighting Board? There are a bunch of ways to con
 ### Pull Requests
 
 Pull requests are welcome and encouraged for enhancements, fixes and documentation updates.
-
-### Donations
-
-If you'd like to make a donation to the original creator's open source work, you can
-
-<a href="https://github.com/sponsors/FeralAI"><img src=".github/assets/github-sponsor-dimmed.png" alt="Sponsor Feral AI on Github" style="height: 40px !important;" ></a>
-
-or
-
-<a href="https://www.buymeacoffee.com/feralai" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 40px !important;" ></a>
